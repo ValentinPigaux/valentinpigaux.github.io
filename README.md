@@ -15,6 +15,9 @@ Prévention de vulnérabilités logicielles
 
 ## 📐 Projets
 
+[Mentallys News](https://news.mentallys.com)  
+![mentallys image](Capture d’écran, le 2024-01-16 à 07.36.53.png)
+
 ## 💼 Expérience
 
 ### 🔹  Conseiller d'accueil Crédit mutuel
