@@ -4,7 +4,7 @@
 Baccalauréat en Informatique et Génie logiciel, UQAM
 
 ## :open_file_folder: Compétences
-:white_check_mark: Python(Flask)
+✅ Python(Flask)
 :white_check_mark: Javascript(Angular)
 :white_check_mark: SQL(MySQL)
 :white_check_mark: HTML/CSS
