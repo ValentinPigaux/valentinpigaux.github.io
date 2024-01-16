@@ -1,17 +1,17 @@
 # Développeur logiciel
 
 ## 📚 Education
-💻 Baccalauréat en Informatique et Génie logiciel, UQAM
+Baccalauréat en Informatique et Génie logiciel, UQAM
 
-## 📂 Compétences
-✅ Python(Flask)
-✅ Javascript(Angular)
-✅ SQL(MySQL)
-✅ HTML/CSS
-✅ Java(Spring Boot)
-✅ Git
-✅ Wordpress
-✅ Prévention de vulnérabilités logicielles
+## ✅ Compétences
+Python(Flask)  
+Javascript(Angular)  
+SQL(MySQL)  
+HTML/CSS  
+Java(Spring Boot)  
+Git  
+Wordpress  
+Prévention de vulnérabilités logicielles  
 
 ## 📐 Projets
 
