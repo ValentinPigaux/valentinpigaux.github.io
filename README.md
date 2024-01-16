@@ -1,30 +1,37 @@
 # Développeur logiciel
 
-## :books: Education
-Baccalauréat en Informatique et Génie logiciel, UQAM
+## 📚 Education
+💻 Baccalauréat en Informatique et Génie logiciel, UQAM
 
-## :open_file_folder: Compétences
+## 📂 Compétences
 ✅ Python(Flask)
-:white_check_mark: Javascript(Angular)
-:white_check_mark: SQL(MySQL)
-:white_check_mark: HTML/CSS
-:white_check_mark: Java(Spring Boot)
-:white_check_mark: Git
-:white_check_mark: Wordpress
-:white_check_mark: Prévention de vulnérabilités logicielles
+✅ Javascript(Angular)
+✅ SQL(MySQL)
+✅ HTML/CSS
+✅ Java(Spring Boot)
+✅ Git
+✅ Wordpress
+✅ Prévention de vulnérabilités logicielles
 
-## Projets
+## 📐 Projets
 
-## Expérience
-### Conseiller d'accueil                              Crédit mutuel
-Accueillir les clients.
-Orienter et informer les clients.
-Traiter les opérations de guichet à partir de l'application TAG
-<< Traitement desActivités de guichet » permettant d'accéder à l'ensemble des opérations deguichet.
-Donner les premiers conseils.
-Vendre les produits de base.
-Gérer le stock de cartes et de chéquiers.
-Traiter le courrier interne et externe.
-Faire du Phoning l'après-midi ou autre activité commerciale.
+## 💼 Expérience
+
+### 🔹  Conseiller d'accueil Crédit mutuel
+Accueillir les clients.  
+Orienter et informer les clients.  
+Traiter les opérations de guichet à partir de l'application TAG.  
+Donner les premiers conseils.  
+Vendre les produits de base.  
+Gérer le stock de cartes et de chéquiers.  
+Traiter le courrier interne et externe.  
+Faire du Phoning l'après-midi ou autre activité commerciale.  
+
+### 🔹 Stage service informatique GFA Caraïbes
+Rédiger les procédures visant à assurer le respect de la législation en matière deprotection de données personnelles.  
+Conseiller les services de l’entreprise sur les aspects juridiques et protectiondes données personnelles.  
+Contribuer à la complétude et à la cohérence des registres de traitement de GFAC.  
+Suivi des différents projets de l'entreprise.    
+Effectuer le suivi des analyses d'impact.  
 
 
