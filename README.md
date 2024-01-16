@@ -1,17 +1,17 @@
 # Développeur logiciel
 
-## Education
+## :books: Education
 Baccalauréat en Informatique et Génie logiciel, UQAM
 
-## Compétences
-1. Python(Flask)
-2. Javascript(Angular)
-3. SQL(MySQL)
-4. HTML/CSS
-5. Java(Spring Boot)
-6. Git
-7. Wordpress
-8. Prévention de vulnérabilités logicielles
+## :open_file_folder: Compétences
+:white_check_mark: Python(Flask)
+:white_check_mark: Javascript(Angular)
+:white_check_mark: SQL(MySQL)
+:white_check_mark: HTML/CSS
+:white_check_mark: Java(Spring Boot)
+:white_check_mark: Git
+:white_check_mark: Wordpress
+:white_check_mark: Prévention de vulnérabilités logicielles
 
 ## Projets
 
